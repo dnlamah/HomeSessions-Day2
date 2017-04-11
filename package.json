@@ -1,0 +1,22 @@
+{
+  "name": "homesessions-day2",
+  "version": "1.0.0",
+  "description": "A cLi App that consumes public API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlamah/HomeSessions-Day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnlamah/HomeSessions-Day2/issues"
+  },
+  "homepage": "https://github.com/dnlamah/HomeSessions-Day2#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
